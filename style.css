@@ -1,0 +1,15 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+li {
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+ul {
+  list-style: none;
+}
+.hightLight {
+  background-color: red;
+  color: white;
+}
